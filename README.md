@@ -1,7 +1,9 @@
 # API-INTEGRATION-AND-DATA-VISUA-IZATION
 API Integration and Data Visualization
 
-Company: CODTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTION
+Name : Hiranya Santosh Ghute
+Intern ID:CT04DY505 
 Domain: Python Programming
 Duration: 4 Weeks
 Mentor: Neela Santosh
